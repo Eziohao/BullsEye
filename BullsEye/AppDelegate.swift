@@ -4,7 +4,7 @@
 //
 //  Created by Eziohao's Mac on 15/11/13.
 //  Copyright © 2015年 Eziohao's Mac. All rights reserved.
-//
+// test the commit
 
 import UIKit
 
